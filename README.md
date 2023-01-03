@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔋 SaaSPay Admin Dashboard</h1>
+  <h1>🔋 Nextjs Template</h1>
 </div>
 
 ## Features
